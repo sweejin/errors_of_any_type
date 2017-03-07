@@ -11,3 +11,18 @@ $bundle update #i update all gems to latest version and do bundle install togeth
 
 
 ```
+
+#git steps
+```
+$git init #create .git folder inside my directory
+$git remote add origin xxxxx.git
+$git add .
+$git commit
+i
+write my commit message
+esc
+:wq!
+
+$git push origin master #origin is the destination name, master is the default branch name
+
+```
